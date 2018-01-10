@@ -1,0 +1,12 @@
+h1 {
+  color: Blue;
+}
+
+body {
+  background-image: url("background.jpg");
+}
+
+.content {
+  max-width: 300px;
+  margin: auto;
+}
